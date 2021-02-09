@@ -11,4 +11,4 @@ DBConnection class is supposed to contain connection details
 
 DAO classes receive connection details from DBConnection, execute business rules
 
-Using just Java and JAX-RS (no spring)
+Using just Java and JAX-RS   (no spring)
